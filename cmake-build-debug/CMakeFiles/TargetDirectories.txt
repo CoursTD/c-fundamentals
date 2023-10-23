@@ -1,0 +1,3 @@
+C:/Users/panda/OneDrive/Documents/TDs/c-fundamentals/cmake-build-debug/CMakeFiles/c_fundamentals.dir
+C:/Users/panda/OneDrive/Documents/TDs/c-fundamentals/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/panda/OneDrive/Documents/TDs/c-fundamentals/cmake-build-debug/CMakeFiles/rebuild_cache.dir
